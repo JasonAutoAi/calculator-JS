@@ -1,0 +1,1 @@
+This app is just to focus on my JavaScript. Styling will be added as I go.
